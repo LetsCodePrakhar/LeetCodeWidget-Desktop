@@ -12,7 +12,7 @@ Track your **monthly activity, streak, and problem stats** directly on your desk
 - 📊 Problem stats (Easy / Medium / Hard / Total)
 - 🎨 Glassmorphism UI (macOS native feel)
 - ⚡ Smooth animations
-- 🔄 Auto-refresh every hour
+- 🔄 RealTime Update
 
 ---
 
