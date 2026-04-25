@@ -9,7 +9,7 @@ const widgetHeight = 140;
 const widgetLeft = 15;
 const widgetTop = 380;
 
-export const refreshFrequency = 3600000;
+export const refreshFrequency = 10;
 
 const leetcodeUsername = "LEETCODE_USERNAME";
 const API_BASE = "https://alfa-leetcode-api.onrender.com";
