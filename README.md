@@ -39,19 +39,18 @@ Download and install Übersicht, then launch it.
 
 ---
 
-### 2. Add the Widget
+### 2. Add the Widget File
 
-Navigate to the widgets folder:
+1. Download the `leetcode.jsx` file from this repository  
+2. Move it to your Übersicht widgets directory:
 
 ```bash
 ~/Library/Application Support/Übersicht/widgets/
 ```
 
-Clone this repository:
+3. Refresh or restart Übersicht
 
-```bash
-git clone https://github.com/YOUR_USERNAME/leetcode-widget.git
-```
+The widget should now appear on your desktop 🎉nd Paste "leetcode.jsx" inside the folder and refresh or restart the Übersicht
 
 ---
 
