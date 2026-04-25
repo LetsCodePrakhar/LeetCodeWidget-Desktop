@@ -11,7 +11,7 @@ const widgetTop = 380;
 
 export const refreshFrequency = 3600000;
 
-const leetcodeUsername = "PrakharSaxena1908";
+const leetcodeUsername = "LEETCODE_USERNAME";
 const API_BASE = "https://alfa-leetcode-api.onrender.com";
 
 /* ---------------- FETCH ---------------- */
