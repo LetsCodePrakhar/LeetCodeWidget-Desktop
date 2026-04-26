@@ -1,4 +1,4 @@
-# 🚀 LeetCode macOS Dashboard Widget
+# 🚀 LeetCode Dashboard Widget (DESKTOP)
 
 A **beautiful glassmorphism LeetCode widget** for macOS built using **Übersicht**.  
 Track your **monthly activity, streak, and problem stats** directly on your desktop.
